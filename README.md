@@ -8,9 +8,13 @@ Several independent works are done including:
   
   
 Please refer to corresponding folders for codes.
+
 Relavant Papers includes:
+
    H. Li, et al. Example-based facial rigging, ACM Trans Graph, 2010
+   
    R. W. Sumner, et al. Deformation transfer for triangle meshes, ACM Trans Graph, 2004
+   
    Ayush Tewari, Self-supervised multi-level face model learning for monocular reconstruction at over 250 hz. In CVPR, 2018
  
 
