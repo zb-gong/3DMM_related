@@ -4,7 +4,7 @@ Several independent works are done including:
   1. 3DMM fitting
   2. deformation transfer 
   3. facial rigging 
-  4. self-supervised 3DMM based on Deep Learning   
+  4. self-supervised 3DMM  
 
 Please refer to corresponding folders for codes.
 
